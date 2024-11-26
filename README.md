@@ -51,9 +51,9 @@ A Face Recognition application built with Python and OpenCV, capable of detectin
 
 Prerequisites
 
-1.Python 3.8+ installed on your system.
+1. Python 3.8+ installed on your system.
 
-2.Required libraries installed:
+2. Required libraries installed:
 
   pip install opencv-python opencv-contrib-python numpy matplotlib
   
