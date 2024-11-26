@@ -55,7 +55,7 @@ Prerequisites
 
 2. Required libraries installed:
 
-  pip install opencv-python opencv-contrib-python numpy matplotlib
+  ---> pip install opencv-python opencv-contrib-python numpy matplotlib
   
   
 Steps to Execute
