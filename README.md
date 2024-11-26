@@ -6,6 +6,7 @@ A real time Face Recognition System using python and openCV.
 
 A Face Recognition application built with Python and OpenCV, capable of detecting and recognizing faces in real time. This project is designed as a step-by-step solution for recognizing faces by generating a dataset, training a classifier, and performing real-time detection with confidence levels.
 
+
 🚀 Features
 
 -Dataset Generation: Capture and store face images with unique labels.
@@ -16,6 +17,7 @@ A Face Recognition application built with Python and OpenCV, capable of detectin
 
 -Accuracy and Confidence Metrics: Display real-time recognition confidence.
 
+
 🛠️ Tech Stack
 
 -Python
@@ -25,6 +27,7 @@ A Face Recognition application built with Python and OpenCV, capable of detectin
 -NumPy: For numerical computations.
 
 -Machine Learning Libraries: For classifier training.
+
 
 📂 Project Workflow
 
@@ -42,6 +45,7 @@ A Face Recognition application built with Python and OpenCV, capable of detectin
 
 -Use the trained model to detect and recognize faces in real-time.
 -Display the name and confidence score of the recognized faces.
+
 
 🧑‍💻 How to Run the Project
 
