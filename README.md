@@ -9,8 +9,11 @@ A Face Recognition application built with Python and OpenCV, capable of detectin
 🚀 Features
 
 -Dataset Generation: Capture and store face images with unique labels.
+
 -Model Training: Train a face recognition model using machine learning techniques.
+
 -Real-Time Recognition: Detect and recognize faces from a live camera feed or video input.
+
 -Accuracy and Confidence Metrics: Display real-time recognition confidence.
 
 🛠️ Tech Stack
