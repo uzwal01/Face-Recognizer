@@ -48,6 +48,7 @@ A Face Recognition application built with Python and OpenCV, capable of detectin
 
 
 🧑‍💻 How to Run the Project
+**Run the Face Regonizer file in VS code and run all codes step by step to obtain appropriate result**
 
 Prerequisites
 
@@ -95,4 +96,4 @@ Steps to Execute
 3. Recognition: The system highlights detected faces and displays recognition confidence.
 
 
-**Run the Face Regonizer file in VS code and run all codes step by step to obtain appropriate result**
+
