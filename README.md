@@ -19,8 +19,11 @@ A Face Recognition application built with Python and OpenCV, capable of detectin
 🛠️ Tech Stack
 
 -Python
+
 -OpenCV: For image processing and face detection.
+
 -NumPy: For numerical computations.
+
 -Machine Learning Libraries: For classifier training.
 
 📂 Project Workflow
