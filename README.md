@@ -62,19 +62,19 @@ Steps to Execute
 
 1. Generate Dataset Run the dataset generator script to capture face images:
 
-python src/dataset_generator.py
+---> python src/dataset_generator.py
 
 -This will save images in the dataset/ folder.
 
 2. Train the Classifier Train the model using the generated dataset:
 
-python src/train_classifier.py
+---> python src/train_classifier.py
 
 -The trained model will be saved in the models/ directory.
 
 3. Run Face Recognition Start real-time face recognition:
 
-python src/face_recognition.py
+---> python src/face_recognition.py
 
 -Use a webcam or video feed for live detection.
 
@@ -89,9 +89,9 @@ python src/face_recognition.py
 📖 Usage Guide
 
 1. Generate Data: Ensure faces are well-lit and clearly visible for optimal training.
-2. 
-3. Training the Model: Use a sufficiently large dataset for accurate predictions.
-4. 
-5. Recognition: The system highlights detected faces and displays recognition confidence.
+ 
+2. Training the Model: Use a sufficiently large dataset for accurate predictions.
+ 
+3. Recognition: The system highlights detected faces and displays recognition confidence.
 
 
